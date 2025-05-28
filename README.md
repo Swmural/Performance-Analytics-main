@@ -12,8 +12,7 @@ Below you can find the structure of this use case:
   - [Configuration steps](#configuration-steps)
   - [Documentation](#documentation)
   - [Contribution](#contribution)
-  - [Licence and Legal Information](#licence-and-legal-information)
-
+  
 ## Description
 
 ### Overview
